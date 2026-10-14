@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#080d20"/>
+  <polygon points="32,4 57,18.5 57,45.5 32,60 7,45.5 7,18.5" fill="none" stroke="#2f5bff" stroke-width="4" stroke-linejoin="round"/>
+  <text x="32" y="38.5" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="17" fill="#efe6c8" letter-spacing="-0.5">NJW</text>
+</svg>
